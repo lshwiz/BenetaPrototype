@@ -1,2 +1,2 @@
-# BenetaPrototype
-Test Beneta App Prototype
+# PythonDeepLearning
+Python DeepLearning from Scratch
